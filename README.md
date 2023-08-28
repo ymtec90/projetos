@@ -1,3 +1,3 @@
 ### HTML Projects Repository
 
-While I learn HTML syntax l'll drop the files from my practice here.
+While I learn HTML5 and CSS3 l'll drop the files of my practice here.
